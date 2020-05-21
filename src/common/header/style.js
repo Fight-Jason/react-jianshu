@@ -123,6 +123,7 @@ export const SearchInfoSwitch = styled.div`
         font-size: 12px;
         margin-right: 2px;
         transition: all .3s ease-in;
+        cursor: pointer;
         /* transform: rotate(0deg); */
         transform-origin: center center; 
     }
