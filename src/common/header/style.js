@@ -106,6 +106,7 @@ export const SearchInfo = styled.div`
     width: 240px;
     padding: 0 20px;
     box-shadow: 0 0 8px rgba(0, 0, 0, .2);
+    background: #fff;
 `
 export const SearchInfoTitle = styled.div`
     margin-top: 20px;
@@ -123,7 +124,7 @@ export const SearchInfoSwitch = styled.div`
         font-size: 12px;
         margin-right: 2px;
         transition: all .3s ease-in;
-        cursor: pointer;
+        cursor: pointer;    
         /* transform: rotate(0deg); */
         transform-origin: center center; 
     }
